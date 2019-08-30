@@ -1,4 +1,4 @@
-all:
+all: clean
 	python setup.py bdist_wheel
 
 .PHONY: clean
