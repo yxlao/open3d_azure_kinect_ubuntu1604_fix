@@ -1,7 +1,7 @@
 all:
-	python setup.py bdist_wheel --dist-dir pip_package
+	python setup.py bdist_wheel
 
 .PHONY: clean
 
 clean:
-	rm -rf open3d_azure_kinect_ubuntu1604_fix.egg-info build pip_package
+	rm -rf *.egg-info build pip_package
