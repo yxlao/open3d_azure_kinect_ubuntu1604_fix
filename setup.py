@@ -14,9 +14,9 @@ setup(
     packages=[
         'open3d_azure_kinect_ubuntu1604_fix',
     ],
-    url="https://github.com/yxlao/open3d-azure-kinect-ubuntu1604-fix",
+    url="https://github.com/yxlao/open3d_azure_kinect_ubuntu1604_fix",
     project_urls={
-        'Source code': 'https://github.com/yxlao/open3d-azure-kinect-ubuntu1604-fix',
+        'Source code': 'https://github.com/yxlao/open3d_azure_kinect_ubuntu1604_fix',
     },
     version='0.1',
 )
