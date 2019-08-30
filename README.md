@@ -9,13 +9,6 @@
 pip install open3d_azure_kinect_ubuntu1604_fix
 ```
 
-### Use
-
-```python
-import open3d_azure_kinect_ubuntu1604_fix
-import open3d
-```
-
 ## Notes for developer
 
 ### Build
