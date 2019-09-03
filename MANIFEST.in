@@ -4,5 +4,8 @@ include open3d_azure_kinect_ubuntu1604_fix/libk4a.so*
 include open3d_azure_kinect_ubuntu1604_fix/libk4arecord.so*
 include open3d_azure_kinect_ubuntu1604_fix/libstdc++.so*
 
+# Headers
+recursive-include open3d_azure_kinect_ubuntu1604_fix/include *
+
 # Exclude
 global-exclude *.py[co]
