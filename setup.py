@@ -14,5 +14,5 @@ setup(
     project_urls={
         'Source code': 'https://github.com/yxlao/open3d_azure_kinect_ubuntu1604_fix',
     },
-    version='0.1',
+    version='0.2',
 )
